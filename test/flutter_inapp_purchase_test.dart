@@ -1411,7 +1411,6 @@ void main() {
       });
     });
     group('checkSubscribed', () {
-      // FIXME
       // This method can't be tested, because this method calls static methods internally.
       // To test, it needs to change static method to non-static method.
     });
